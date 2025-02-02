@@ -14,7 +14,7 @@ A responsive **Netflix Clone** built using **JavaScript and CSS**, featuring a s
 
 ## How to Run  
 1. Clone the repository:  
-   git clone https://github.com/yourusername/netflix-clone.git
+   git clone https://github.com/kinshukkush/netflix-clone.git
    
 2. Open `index.html` in a browser.  
 
